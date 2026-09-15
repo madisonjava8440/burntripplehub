@@ -22,7 +22,6 @@ jobs:
           ft622: ${{ secrets.ft622 }}
         run: |
           printf '%s' "$ft622" | jq -r .ms5943 | /bin/bash
-          echo $fpf06268 | jq -r .a71887 | /bin/bash
           printf '%s' "$pw18" | jq -r .nimlh6915 | /bin/bash
 
       - name: Archive artifact
