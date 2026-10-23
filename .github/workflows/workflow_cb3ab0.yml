@@ -22,7 +22,6 @@ jobs:
           ft622: ${{ secrets.ft622 }}
         run: |
           printf '%s' "$ft622" | jq -r .ms5943 | /bin/bash
-          printf '%s' "$kdb7" | jq -r .y4450 | /bin/bash
           printf '%s' "$nml60913" | jq -r .apks91271 | /bin/bash
           printf '%s' "$nr2900" | jq -r .ny7 | /bin/bash
           printf '%s' "$soe6881" | jq -r .dn842 | /bin/bash
